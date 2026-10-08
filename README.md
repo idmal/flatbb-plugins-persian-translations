@@ -1,2 +1,21 @@
-# flatbb-plugins-persian-translations
-Persian translations for FlatBB plugins
+# ترجمهٔ فارسی تمامی افزونه های اسکریپت انجمن ساز Flatbb
+
+
+
+## راهنمای نصب
+
+فایل `fa.php` هر افزونه را در این مسیر قرار دهید:
+plugins/example/lang/fa.php
+پس از دانلود هر فایل نام آنرا به fa.php تغییر دهید. تمامی فایل های fa.php برای هر پلاگین باید در پوشه lang در خود پلاگین قرار گیرد. اگر پوشه lang در هر پلاگین وجود ندارد انرا بسازید.
+
+
+افزونهٔ اصلی باید جداگانه از FlatBB Marketplace نصب شده باشد.
+https://www.flatbb.com/market
+
+پیس از هر کاری از بخش مدیریت > تنظیمات > نسبت به انتخاب زبان فارسی برای سایت اقدام کنید.
+
+
+موفق باشید ارادتمند شما میلاد
+https://github.com/idmal
+https://t.me/idmal
+
