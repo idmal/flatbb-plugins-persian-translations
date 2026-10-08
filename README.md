@@ -17,5 +17,6 @@ https://www.flatbb.com/market
 
 موفق باشید ارادتمند شما میلاد
 https://github.com/idmal
+تماس با من در تلگرام و سفارش ترجمه
 https://t.me/idmal
 
